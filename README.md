@@ -1,4 +1,4 @@
-# 🎓✨ Student Management API (by Enf Abdifitah)
+# 🎓✨ Student Management API (by Eng Abdifitah)
 
 ---
 
@@ -115,7 +115,7 @@ Use [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to
 
 ## 👨‍💻 Author
 
-- **Enf Abdifitah**  
+- **Eng Abdifitah**  
   [GitHub](https://github.com/Abdifitahmohamuud)
 
 ---
